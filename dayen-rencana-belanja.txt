@@ -5,6 +5,7 @@ RECANA BELANJA DAYEN
   * Kripik
   * Wafer
   * Biskuit
+  * Kue bolu
 - Beli sayur
 - Beli minuman
   * Kopi
