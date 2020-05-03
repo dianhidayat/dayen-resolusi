@@ -4,6 +4,8 @@ RECANA BELANJA DAYEN
 - Beli cemilan
   * Kripik
   * Wafer
-- Beli sayur
+  * Puding
+  * Kue Bolu
 - Beli minuman
+  * Kopi
 - Beli permen
