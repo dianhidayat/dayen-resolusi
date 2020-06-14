@@ -6,7 +6,5 @@ RECANA BELANJA DAYEN
   * Wafer
   * Biskuit
   * Kue bolu
-- Beli sayur
 - Beli minuman
-  * Kopi
-- Beli permen
+  * Susu
